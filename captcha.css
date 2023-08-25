@@ -1,0 +1,43 @@
+#image{
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+    width: 60px;;
+    padding: 20px;
+    font-weight: 400;
+    padding-bottom: 0px;
+    height: 50px;
+    user-select: none;
+    text-decoration:line-through;
+    font-style: italic;
+    font-size: x-large;
+    border: gold 2px solid;
+    margin-left: 10px;
+     
+}
+#user-input{
+    box-shadow: 5px 5px 5px 5px gray;
+    width:auto;
+    margin-right: 10px;
+    margin-left: 5px;
+    padding: 10px;
+    padding-bottom: 0px;
+    height: 50px;
+    border: gold 0px solid;
+}
+
+
+input{
+    border:2px black solid;
+}
+.inline{
+    display:inline-block;
+}
+#btn{
+    box-shadow: 5px 5px 5px grey;
+    color: white;
+    margin: 30px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: blue;
+}
